@@ -146,7 +146,7 @@
 
 # Функция enumerate() применяется к итерируемому объекту и возвращает новый итератор с кортежами из индекса и элементов входных данных.
 
-users = ['users1', 'users2', 'users3', 'users4', 'users5']
+# users = ['users1', 'users2', 'users3', 'users4', 'users5']
 
-data= list(enumerate(users))
-print(data)
+# data= list(enumerate(users))
+# print(data)
